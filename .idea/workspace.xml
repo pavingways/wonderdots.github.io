@@ -14,7 +14,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="971" />
+    <option name="cachedIndexableFilesCount" value="981" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -106,6 +106,7 @@
       <workItem from="1775471151164" duration="1549000" />
       <workItem from="1776317147848" duration="1196000" />
       <workItem from="1776665730033" duration="610000" />
+      <workItem from="1777498937157" duration="281000" />
     </task>
     <servers />
   </component>
